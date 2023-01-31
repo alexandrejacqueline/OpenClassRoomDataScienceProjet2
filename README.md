@@ -34,8 +34,13 @@ Déterminer des ordres de grandeurs des indicateurs statistiques classiques pour
 Ton travail va nous permettre de déterminer si ce jeu de données peut informer les décisions d'ouverture vers de nouveaux pays. On va partager ton analyse avec le board, alors merci de soigner la présentation et de l'illustrer avec des graphiques pertinents et lisibles !
 
 Compétences évaluées:
+
 -Effectuer une représentation graphique à l'aide d'une librairie Python adaptée
+
 -Mettre en place un environnement Python
+
 -Manipuler des données avec des librairies Python spécialisées
+
 -Utiliser un notebook Jupyter pour faciliter la rédaction du code et la collaboration
+
 -Maîtriser les opérations fondamentales du langage Python pour la Data Science
